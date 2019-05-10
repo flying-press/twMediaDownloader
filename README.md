@@ -1,3 +1,6 @@
+Disregard all below and this repo. Current Twitter is no longer the Twitter that this repository was made for. Successor appears to be [twOpenOriginalImage](https://github.com/furyutei/twOpenOriginalImage).
+
+
 Twitter メディアダウンローダ (twMediaDownloader)
 ================================================
 
